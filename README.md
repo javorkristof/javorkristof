@@ -12,5 +12,5 @@ I am a 3rd-year Computer Science student at Eötvös Loránd University (ELTE), 
 * **Tools & Environment:** Jupyter Notebook, VS Code, Unity
 
 ## Connect with me
-* **LinkedIn:** [Jávor Kristóf]([www.linkedin.com/in/jávor-kristóf-0200023b5](https://www.linkedin.com/in/j%C3%A1vor-krist%C3%B3f-0200023b5/))
+* **LinkedIn:** [Jávor Kristóf](https://www.linkedin.com/in/j%C3%A1vor-krist%C3%B3f-0200023b5/)
 * **Email:** [javorkri@gmail.com](mailto:javorkri@gmail.com)
